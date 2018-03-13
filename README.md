@@ -1,6 +1,4 @@
 # CSftp
-CPSC 317 A3
-
 A command line FTP client written in C. The client supports the following commands as well as a variety of error messages:
 * user [username] Provides the FTP server a username.
 * pw [password] Provides the FTP server a password.
