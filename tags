@@ -1,0 +1,2 @@
+listFiles	dir.c	/^int listFiles(int fd, char * directory) {$/
+usage	usage.c	/^void usage(char *progName) {$/
